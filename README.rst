@@ -10,9 +10,9 @@ api metrics collector middleware for django
 .. image:: https://coveralls.io/repos/z4r/django-stopwatch/badge.png?branch=master
     :target: https://coveralls.io/r/z4r/django-stopwatch
     
-.. image:: https://pypip.in/v/django-stopwatch/badge.png
+.. image:: https://img.shields.io/pypi/v/django-stopwatch.svg
    :target: https://crate.io/packages/django-stopwatch/
-.. image:: https://pypip.in/d/django-stopwatch/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-stopwatch.svg
    :target: https://crate.io/packages/django-stopwatch/
 
 This package provides a django middleware to collect API metrics.
